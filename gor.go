@@ -8,8 +8,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/buger/gor/listener"
-	"github.com/buger/gor/replay"
+	"./listener"
+	"./replay"
 	"log"
 	"os"
 	"runtime/pprof"
